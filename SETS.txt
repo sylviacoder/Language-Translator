@@ -1,1 +1,0 @@
-#A set is a set of characters inside a pair of square brackets [] with a special meaning

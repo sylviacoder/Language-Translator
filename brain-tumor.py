@@ -30,7 +30,6 @@ import pandas as pd
 import numpy as np
 from skimage.io import imread
 import matplotlib.pyplot as plt
-%matplotlib inline
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from tqdm import tqdm
